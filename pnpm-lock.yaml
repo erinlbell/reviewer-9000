@@ -12,7 +12,7 @@ importers:
   .:
     dependencies:
       '@prisma/client':
-        specifier: ^6.2.1
+        specifier: ^6.3.1
         version: 6.3.1(prisma@6.3.1(typescript@5.7.3))(typescript@5.7.3)
       '@remix-run/dev':
         specifier: ^2.15.0
