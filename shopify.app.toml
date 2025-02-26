@@ -1,7 +1,7 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
 client_id = "11812fa95b561ddd68bf6857d66fcbea"
-application_url = "https://everyday-christ-advised-caroline.trycloudflare.com"
+application_url = "https://magazine-husband-placing-ta.trycloudflare.com"
 embedded = true
 name = "erinbellstore"
 handle = "erinbellstore"
@@ -15,9 +15,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://everyday-christ-advised-caroline.trycloudflare.com/auth/callback",
-  "https://everyday-christ-advised-caroline.trycloudflare.com/auth/shopify/callback",
-  "https://everyday-christ-advised-caroline.trycloudflare.com/api/auth/callback"
+  "https://magazine-husband-placing-ta.trycloudflare.com/auth/callback",
+  "https://magazine-husband-placing-ta.trycloudflare.com/auth/shopify/callback",
+  "https://magazine-husband-placing-ta.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
